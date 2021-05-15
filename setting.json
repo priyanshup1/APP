@@ -1,0 +1,21 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "git.rebaseWhenSync": true,
+    "git.showPushSuccessNotification": true,
+    "git.autofetch": "all",
+    "git.allowForcePush": true,
+    "git.postCommitCommand": "sync",
+    "git.fetchOnPull": true,
+    "git.autoRepositoryDetection": "openEditors",
+    "terminal.integrated.tabs.enabled": true,
+    "debug.javascript.resourceRequestOptions": {
+    
+    }
+}
