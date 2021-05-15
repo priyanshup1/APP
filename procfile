@@ -1,1 +1,2 @@
-web: gunicorn mato-eda-app:app
+  
+web: sh setup.sh && streamlit run mato-eda-app.py
